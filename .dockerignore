@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyd
+*.log
+.git
+.pytest_cache
+venv
+Dockerfile
